@@ -3,6 +3,8 @@ Sammlung von Zugferd und XRechnung Themen zum Delapro
 
 siehe auch: https://www.dstv.de/wp-content/uploads/2023/10/BMF_2023-0922192-R.pdf
 
+Einführung mit TimeLine: https://www.mustangproject.org/einvoices/?lang=de
+
 Erster Referentenentwurf: https://www.bundesfinanzministerium.de/Content/DE/Gesetzestexte/Gesetze_Gesetzesvorhaben/Abteilungen/Abteilung_IV/20_Legislaturperiode/2023-09-08-WtChancenG/1-Referentenentwurf.pdf?__blob=publicationFile&v=2
 https://www.bundestag.de/dokumente/textarchiv/2023/kw41-de-wachstumschancengesetz-968824
 Gesetzentwurf vom 2.10.2023: https://dserver.bundestag.de/btd/20/086/2008628.pdf
