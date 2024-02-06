@@ -15,6 +15,7 @@ DBahn XRechnungsportal: https://lieferanten.deutschebahn.com/lieferanten/Bestand
 Beispiel von der Bahn: https://www.deutschebahn.com/resource/blob/7583742/b82d312ca4c3e2f823c86d45586b76ef/Musterrechnung-CII--data.pdf
 Generator: https://xre.deutschebahn.com/#
 
+xRechnung hats nun zur Version 3.0.1 geschafft, alle X-Standard-Dokumente sind hier zu finden: https://xeinkauf.de/dokumente/. Siehe auch Bund: https://www.e-rechnung-bund.de/standard-xrechnung-3-0-1/.
 
 Artikel über verschiedene aktuelle Entwicklungen: https://medium.com/@jochen.staerk/why-and-how-germany-bans-b2b-paper-invoices-a4c7977f314a
 
