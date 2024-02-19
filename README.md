@@ -19,6 +19,8 @@ xRechnung hats nun zur Version 3.0.1 geschafft, alle X-Standard-Dokumente sind h
 
 Artikel über verschiedene aktuelle Entwicklungen: https://medium.com/@jochen.staerk/why-and-how-germany-bans-b2b-paper-invoices-a4c7977f314a
 
+Aktueller Stand des Wachstumschancengesetzt welches die E-Rechnung erzwingt: https://dip.bundestag.de/vorgang/gesetz-zur-st%C3%A4rkung-von-wachstumschancen-investitionen-und-innovation-sowie-steuervereinfachung/303318
+
 EU: https://ec.europa.eu/digital-building-blocks/wikis/display/DIGITAL/eInvoicing
 
 Umsetzungsempfehlung von Energieerzeugern: https://www.meine-energie.de/media/umsetzungsempfehlungen_zugferd_2.0.pdf
