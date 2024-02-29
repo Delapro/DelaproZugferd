@@ -26,3 +26,5 @@ EU: https://ec.europa.eu/digital-building-blocks/wikis/display/DIGITAL/eInvoicin
 Umsetzungsempfehlung von Energieerzeugern: https://www.meine-energie.de/media/umsetzungsempfehlungen_zugferd_2.0.pdf
 
 Seite mit verschiedenen, meist aktuellen Themen zum elektronischen Rechnungsaustausch: https://rechnungsaustausch.org/
+
+Validator: https://github.com/itplr-kosit/validator
