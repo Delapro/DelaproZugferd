@@ -3,6 +3,9 @@ Sammlung von Zugferd und XRechnung Themen zum Delapro
 
 Quba-Viewer (von Jochen Stärk): https://quba-viewer.org/
 
+Thunderbird AddOn: https://github.com/humpataa/XRechnung-Viewer bzw. https://addons.thunderbird.net/de/thunderbird/addon/xrechnung-viewer/
+
+
 Aktuelles Schreiben vom 15. Oktober 2024 vom BMF zur Einführung der E-Rechnung: https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Umsatzsteuer/2024-10-15-einfuehrung-e-rechnung.pdf?__blob=publicationFile&v=4
 
 siehe auch: https://www.dstv.de/wp-content/uploads/2023/10/BMF_2023-0922192-R.pdf
